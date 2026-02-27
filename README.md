@@ -42,7 +42,7 @@ Train any Zen model with any dataset combination from HuggingFace. Everything ru
 - Go Browse (27k web interactions)
 
 **Function Calling:**
-- xLAM 60k (Salesforce high-quality function calling)
+- xLAM 60k (high-quality function calling dataset)
 
 **Instruction Tuning:**
 - Alpaca (52k instruction samples)
