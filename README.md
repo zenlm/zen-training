@@ -115,9 +115,7 @@ ADP (all configs) + xLAM
 - **Website**: https://zenlm.org
 - **GitHub**: https://github.com/zenlm
 - **Models**: https://huggingface.co/zenlm
-- **Datasets**:
-  - [ADP](https://huggingface.co/datasets/neulab/agent-data-collection)
-  - [xLAM](https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
+- **Datasets**: See supported dataset list in the training UI
 
 ## 📄 License
 
@@ -131,18 +129,5 @@ Apache 2.0
   author={Zen AI Team},
   year={2025},
   url={https://huggingface.co/spaces/zenlm/zen-training}
-}
-
-@article{adp2024,
-  title={Agent Data Protocol},
-  author={NeuLab},
-  journal={arXiv preprint arXiv:2510.24702},
-  year={2024}
-}
-
-@dataset{xlam2024,
-  title={xLAM Function Calling Dataset},
-  author={Salesforce Research},
-  year={2024}
 }
 ```
