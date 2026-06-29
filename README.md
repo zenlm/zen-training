@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-training" width="880"></p>
+
 ---
 title: Zen Training
 emoji: 🧘
